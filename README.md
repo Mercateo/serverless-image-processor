@@ -38,6 +38,25 @@ export interface QueryParams {
   height?: number;
 
   /**
+   * Preserving aspect ratio, resize the image to the maximum width or height specified then embed on a background of the exact width and height specified.
+   * Default: false
+   */
+  embed?: boolean;
+
+  /**
+   * Sets the background for embed mode.
+   * Accepts every string format which is accepted by https://www.npmjs.com/package/color.
+   */
+  background?: string;
+
+  /**
+   * Preserving aspect ratio, resize the image to be as large as possible while ensuring its dimensions are less than or equal to the width and height specified.
+   * Both width and height must be provided via resize otherwise the behaviour will default to crop.
+   * Default: false
+   */
+  max?: boolean;
+
+  /**
    * Converts the input image to jpg.
    * Defsult: false
    */

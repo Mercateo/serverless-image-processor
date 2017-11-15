@@ -21,7 +21,7 @@ describe('Gif Queries', () => {
 
   it('should accept parameters', async () => {
     const res = await axios.get(
-      'http://localhost:3000/test.gif?width=500&progressive=false&blur=0.5&normalize=true'
+      'http://localhost:3000/test.gif?width=2200&progressive=false&blur=0.5&normalize=true&embed=true&max=true'
     );
     expect(res.status).toBe(200);
     expect(res.headers).toMatchObject({ 'content-type': 'image/jpeg' });
