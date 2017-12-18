@@ -44,7 +44,7 @@
     "copy-webpack-plugin": "^4.2.0",
     "coveralls": "^3.0.0",
     "env-cmd": "^7.0.0",
-    "jest": "^21.2.1",
+    "jest": "^22.0.0",
     "prettier": "^1.8.2",
     "prettier-tslint": "^0.3.0",
     "serverless": "^1.24.1",
