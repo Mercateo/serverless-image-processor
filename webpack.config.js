@@ -27,6 +27,6 @@ module.exports = {
     new CopyWebpackPlugin([{ from: 'compiled/sharp', to: 'compiled/sharp' }])
   ],
   module: {
-    loaders: [{ test: /\.ts(x?)$/, loader: 'ts-loader' }]
+    rules: [{ test: /\.ts(x?)$/, loader: 'ts-loader' }]
   }
 };
