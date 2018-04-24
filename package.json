@@ -47,7 +47,7 @@
     "env-cmd": "^7.0.0",
     "jest": "^22.4.3",
     "prettier": "^1.8.2",
-    "prettier-tslint": "^0.3.0",
+    "prettier-tslint": "^0.4.0",
     "serverless": "^1.24.1",
     "serverless-apigw-binary": "^0.4.4",
     "serverless-offline": "^3.20.1",
