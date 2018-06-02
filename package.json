@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
-    "@types/jest": "^22.2.2",
+    "@types/jest": "^23.0.0",
     "aws-sdk": "^2.221.1",
     "axios": "^0.18.0",
     "copy-webpack-plugin": "^4.2.0",
