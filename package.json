@@ -62,7 +62,7 @@
   "dependencies": {
     "@types/mime": "^2.0.0",
     "@types/ramda": "^0.25.34",
-    "@types/sharp": "^0.17.9",
+    "@types/sharp": "^0.21.0",
     "mime": "^2.3.1",
     "ramda": "^0.25.0",
     "sharp": "0.20.1"

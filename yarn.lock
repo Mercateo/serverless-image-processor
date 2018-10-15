@@ -72,9 +72,9 @@
   version "0.25.34"
   resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.34.tgz#6fae4a009123c2db810711b416da9b597cc5c54c"
 
-"@types/sharp@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@types/sharp/-/sharp-0.17.9.tgz#b269c8e24d1a0f30fb50b866cf969f884de68e64"
+"@types/sharp@^0.21.0":
+  version "0.21.0"
+  resolved "https://registry.yarnpkg.com/@types/sharp/-/sharp-0.21.0.tgz#e364b345c70e5924a5c626aaccaa236e0cfc2455"
   dependencies:
     "@types/node" "*"
 
