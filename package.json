@@ -47,7 +47,7 @@
     "@types/jest": "^23.3.9",
     "aws-sdk": "^2.363.0",
     "axios": "^0.18.0",
-    "copy-webpack-plugin": "^4.6.0",
+    "copy-webpack-plugin": "^5.0.0",
     "coveralls": "^3.0.2",
     "env-cmd": "^8.0.2",
     "jest": "^23.6.0",
