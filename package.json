@@ -56,7 +56,7 @@
     "serverless": "^1.33.2",
     "serverless-apigw-binary": "^0.4.4",
     "serverless-offline": "^3.31.3",
-    "serverless-s3-local": "^0.3.20",
+    "serverless-s3-local": "^0.4.0",
     "serverless-webpack": "^5.2.0",
     "ts-jest": "^23.10.5",
     "ts-loader": "^5.3.0",
